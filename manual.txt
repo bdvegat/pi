@@ -1,0 +1,4 @@
+El programa esta desarrollado en python usando un Jupyper Notebook, para ejecutarlo 
+se debe terner una distribucion de python que cuente con Jupyter, por ejemplo una 
+distribucion instalada por medio de conda.
+Se puede ver una version previamente ejecutada en https://github.com/bdvegat/pi/blob/master/Untitled.ipynb
